@@ -127,7 +127,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Raktim Mondal**
+**ParthajitBanik**
 
 Frontend Developer
 
